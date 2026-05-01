@@ -10,3 +10,5 @@ I am a **Distributed ML Research Engineer** and Ph.D. Candidate at the **Karlsru
 *   **Decentralized & Sovereign AI:** Developing infrastructure for decentralized training orchestration and privacy-preserving collaborative learning.
 *   **Agentic Systems:** Building effective and trustworthy LLM-based agentic systems with reliable agent-to-agent interactions.
 
+
+Please feel free to contact me if you are interested in collaborating or just talking!
