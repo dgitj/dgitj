@@ -1,6 +1,8 @@
 Hi, I'm David 👋
 
-I am a **Distributed ML Research Engineer** and Ph.D. Candidate at the **Karlsruhe Institute of Technology (KIT)** and **KASTEL Security Research Labs**, where I specialize in scaling collaborative and distributed machine learning under real-world constraints. My research journey has led me to the **Massachusetts Institute of Technology (MIT)** as a Visiting Research Scientist, investigating data-efficient distributed SFT for autonomous systems, and to the **Technical University of Munich (TUM)**, where I serve as an Affiliated Research Scientist and Lecturer for distributed and sovereign AI.
+I am a **Distributed ML Research Engineer** and Ph.D. Candidate at the **Karlsruhe Institute of Technology (KIT)** and **KASTEL Security Research Labs**, where I specialize in scaling collaborative and distributed machine learning under real-world constraints.
+
+My research journey has led me to the **Massachusetts Institute of Technology (MIT)** as a Visiting Research Scientist, investigating data-efficient distributed SFT for autonomous systems, and to the **Technical University of Munich (TUM)**, where I serve as an Affiliated Research Scientist and Lecturer for distributed and sovereign AI.
 
 ---
 
@@ -11,4 +13,4 @@ I am a **Distributed ML Research Engineer** and Ph.D. Candidate at the **Karlsru
 *   **Agentic Systems:** Building effective and trustworthy LLM-based agentic systems with reliable agent-to-agent interactions.
 
 
-Please feel free to contact me if you are interested in collaborating or just talking!
+Please feel free to contact me if you are interested in collaborating or just talking!  
