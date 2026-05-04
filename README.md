@@ -6,7 +6,7 @@ My research journey has led me to the **Massachusetts Institute of Technology** 
 
 ---
 
-### Im interested in:
+### I'm particularly interested in:
 *   **Parallelism:** Orchestrating multi-dimensional parallelization strategies to ensure communication & computation efficiency, scalability, and data privacy.
 *   **Efficient SFT & Active Learning:** Optimizing Distributed Supervised Fine-Tuning (SFT) through targeted sample selection and active learning pipelines to maximize data efficiency
 *   **Decentralized & Sovereign AI:** Developing infrastructure for decentralized training orchestration and privacy-preserving collaborative learning.
