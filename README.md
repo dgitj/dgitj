@@ -11,7 +11,7 @@ My research journey has led me to the **Massachusetts Institute of Technology** 
 *   **Efficient SFT & Active Learning:** Optimizing Distributed Supervised Fine-Tuning (SFT) through targeted sample selection and active learning pipelines to maximize data efficiency
 *   **Decentralized & Sovereign AI:** Developing infrastructure for decentralized training orchestration and privacy-preserving collaborative learning.
 *   **Agentic Systems:** Building effective and trustworthy LLM-based agentic systems with reliable agent-to-agent interactions.
-*   *   **Kernels:** I'm currently diving into the world of kernel optimization and learning how to write my own kernels. 
+*   **Kernels:** I'm currently diving into the world of kernel optimization and learning how to write my own kernels. 
 
 
 Please feel free to contact me if you are interested in collaborating or just talking!  
